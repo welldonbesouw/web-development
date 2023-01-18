@@ -1,2 +1,4 @@
-Our vision is to make books easily accessible anywhere
-and anytime to everyone. 
+<p style="font-family: 'Libre Baskerville', serif; "Our vision is to make books easily 
+<span style="color: black; background: rgb(227, 227, 0); padding: 5px; margin: 5px;">accessible anywhere</span>
+and <span style="color: black; background: rgb(227, 227, 0); padding: 5px; margin: 5px;">anytime</span>
+to <span style="color: black; background: rgb(227, 227, 0); padding: 5px; margin: 5px;">everyone.</span></p>
