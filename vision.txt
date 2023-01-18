@@ -1,4 +1,1 @@
-<p style="font-family: 'Libre Baskerville', serif;>"Our vision is to make books easily 
-<span style="color: black; background: rgb(227, 227, 0); padding: 2px 5px; margin: 0 4px;border-radius: 2px">accessible anywhere</span>
-and <span style="color: black; background: rgb(227, 227, 0); padding: 2px 5px; margin: 0 4px;border-radius: 2px">anytime</span>
-to <span style="color: black; background: rgb(227, 227, 0); padding: 2px 5px; margin: 0 4px;border-radius: 2px">everyone.</span></p>
+<p style="font-family: 'Libre Baskerville', serif">Our vision is to make books easily <span style="color: black; background: rgb(227, 227, 0); padding: 2px 5px; margin: 0 4px;border-radius: 2px">accessible anywhere</span> and <span style="color: black; background: rgb(227, 227, 0); padding: 2px 5px; margin: 0 4px;border-radius: 2px">anytime</span> to <span style="color: black; background: rgb(227, 227, 0); padding: 2px 5px; margin: 0 4px;border-radius: 2px">everyone.</span></p>
