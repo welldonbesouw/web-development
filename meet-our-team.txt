@@ -1,4 +1,5 @@
-<div class="meet-our-team">
+<div id="meet-our-team-container">
+	<div class="meet-our-team">
 		<div id="img-container">
 			<img src="https://uploads-ssl.webflow.com/6245ba9c644229ab34377631/629a6a4b7d66dd006f490f21_Asset%2010%402x.png">
 		</div>
@@ -70,3 +71,4 @@
 			<p>madeline.bela@metcalfelibrary.org</p>
 		</div>
 	</div>
+</div>
