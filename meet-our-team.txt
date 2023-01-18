@@ -1,0 +1,72 @@
+<div class="meet-our-team">
+		<div id="img-container">
+			<img src="https://uploads-ssl.webflow.com/6245ba9c644229ab34377631/629a6a4b7d66dd006f490f21_Asset%2010%402x.png">
+		</div>
+		<div id="team-name">
+			Kasey Warf
+		</div>
+		<div id="pos-email">
+			<p>Library Director</p>
+			<p>kasey.warf@metcalfelibrary.org</p>
+		</div>
+	</div>
+	<div class="meet-our-team">
+		<div id="img-container">
+			<img src="https://uploads-ssl.webflow.com/6245ba9c644229ab34377631/629a6a4ac1d8bf4a53597f22_Asset%204%402x.png">
+		</div>
+		<div id="team-name">
+			Ashley Holley
+		</div>
+		<div id="pos-email">
+			<p>Children's Librarian</p>
+			<p>ashley.holley@metcalfelibrary.org</p>
+		</div>
+	</div>
+	<div class="meet-our-team">
+		<div id="img-container">
+			<img src="https://uploads-ssl.webflow.com/6245ba9c644229ab34377631/629a6a4a78c64009aac7c141_Asset%206%402x.png">
+		</div>
+		<div id="team-name">
+			Jerrica Harris
+		</div>
+		<div id="pos-email">
+			<p>Program Coordinator</p>
+			<p>jerrica.harris@metcalfelibrary.org</p>
+		</div>
+	</div>
+	<div class="meet-our-team">
+		<div id="img-container">
+			<img src="https://uploads-ssl.webflow.com/6245ba9c644229ab34377631/629a6a4be943928ff988d5ff_Asset%2012%402x.png">
+		</div>
+		<div id="team-name">
+			Susan Hornek
+		</div>
+		<div id="pos-email">
+			<p>Outreach Services Coordinator</p>
+			<p>susan.hornek@metcalfelibrary.org</p>
+		</div>
+	</div>
+	<div class="meet-our-team">
+		<div id="img-container">
+			<img src="https://uploads-ssl.webflow.com/6245ba9c644229ab34377631/629a6a4b4bf2b57451a40590_Asset%2011%402x.png">
+		</div>
+		<div id="team-name">
+			Lauren Harper
+		</div>
+		<div id="pos-email">
+			<p>Circulation Clerk</p>
+			<p>lauren.harper@metcalfelibrary.org</p>
+		</div>
+	</div>
+	<div class="meet-our-team">
+		<div id="img-container">
+			<img src="https://uploads-ssl.webflow.com/6245ba9c644229ab34377631/629a6a4b27e6af901604b54d_Asset%209%402x.png">
+		</div>
+		<div id="team-name">
+			Madeline Bela
+		</div>
+		<div id="pos-email">
+			<p>Circulation Clerk</p>
+			<p>madeline.bela@metcalfelibrary.org</p>
+		</div>
+	</div>
